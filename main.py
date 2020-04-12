@@ -1,2 +1,13 @@
 import steam.steamid
-print(steam.steamid.from_url('https://steamcommunity.com/id/W0ofles'))
+import requests as r
+import json
+
+test = r.get('http://store.steampowered.com/api/appdetails?appids=57690')
+
+output = test.json()
+print(str(output['57690']['data']["price_overview"]['final']))
+
+
+
+
+
