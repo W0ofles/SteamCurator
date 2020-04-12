@@ -1,13 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
-list = []
-
 page = requests.get("https://isthereanydeal.com/#/")
 soup = BeautifulSoup(page.content, 'html.parser')
+gamelist = []
 
-table = soup.find(class_="cntBoxContent")
-sales = table.find_all(class_="bundle-container-outer bundle-preview giveaway")
-bundles = table.find_all(class_="bundle-container-outer bundle-preview bundle")
-links = table.find_all(class_="lg")
+for link in soup.find_all('a', class_='lg'): #Find Links
+    gamelist.append(link.get('href')) #Get Hrefs
+gamelist = list(dict.fromkeys(gamelist)) #Remove Duplicates
 
-print(soup.find_all('a', class_='lg'))
+print(gamelist)
