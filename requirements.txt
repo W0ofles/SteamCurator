@@ -10,6 +10,7 @@ idna==2.9
 protobuf==3.11.3
 pycparser==2.20
 requests==2.23.0
+selenium==3.141.0
 six==1.14.0
 soupsieve==2.0
 steam==0.9.1
