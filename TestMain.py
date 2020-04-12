@@ -13,4 +13,6 @@ for game in gamelist:
 
 #print(gamelist)
 #print(prettylist)
-"""                                                                                 
+"""
+
+# RUN pip3 freeze > requirements.txt IN CONSOLE TO UPDATE REQUIREMENTS TEXT
