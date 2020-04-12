@@ -8,16 +8,20 @@ assignees: W0ofles
 ---
 
 **Describe Your Problem**
-A clear and concise description of what your purpose of submitting a report is.
+_A clear and concise description of what your purpose of submitting a report is._
+[type here]
 
 **Location of Problem**
-Where is the problem located? What file? Line?
+_Where is the problem located? What file? Line?_
+[type here]
 
 **How To Fix**
-Do you know how to fix it? If so tell us how.
+_Do you know how to fix it? If so tell us how._
+[type here]
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+_If applicable, add screenshots to help explain your problem._
+[type here]
 
 **Additional context**
-Add any other context is placed here.
+_Add any other context is placed here._
