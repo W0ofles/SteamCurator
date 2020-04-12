@@ -14,9 +14,10 @@ for i in range(len(games_json)):
 
 
 
-
-test = r.get('http://store.steampowered.com/api/appdetails?appids=57690')
-
-output = test.json()
-print(str(output['57690']['data']["price_overview"]['final']))
-
+for i in game_arr:
+    try:
+        game_query = r.get('http://store.steampowered.com/api/appdetails?appids=' + str(i))
+        game_query = game_query.json()
+        print(game_query[str(i)]['data']["price_overview"]['final'])
+    except:
+        print('no price')
