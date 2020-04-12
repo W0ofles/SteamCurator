@@ -29,3 +29,17 @@ print(links[7])
 
 
 
+count = 0
+for i in links:
+    list.append(i)
+    count += 1
+    if i == '<span class="lg">':
+        list.pop(i[count])
+list_pretty = []
+length = len(list)
+for i in range(length):
+    if list[i].find('href') != -1:
+        list_pretty.append(list[i])
+    else:
+        continue
+print(list_pretty)
