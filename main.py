@@ -1,7 +1,5 @@
-import random
 import requests
 from bs4 import BeautifulSoup
-import re
 list = []
 
 page = requests.get("https://isthereanydeal.com/#/")
@@ -16,19 +14,15 @@ for i in range(0,len(links)):
     for link in links[i]:
         list.append(link)
 
+
 print(list) #Prints text without links
+print(sales)
+print(bundles)
+print(links)
 
-print(links[0]) #Prints in order the items on page.
-print(links[1])
-print(links[2])
-print(links[3])
-print(links[4])
-print(links[5])
-print(links[6])
-print(links[7])
+#print(links[0-7]) #Prints in order the items on page.
 
-
-
+"""
 count = 0
 for i in links:
     list.append(i)
@@ -42,4 +36,4 @@ for i in range(length):
         list_pretty.append(list[i])
     else:
         continue
-print(list_pretty)
+        """
