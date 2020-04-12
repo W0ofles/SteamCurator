@@ -1,0 +1,12 @@
+GET http://store.steampowered.com/api/appdetails?appids=57690
+Accept: application/json
+
+<> 2020-04-11T073425.200.json
+
+###
+
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+
+###
+
