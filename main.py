@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-
+from tqdm import tqdm
 
 options = Options()
 options.add_argument('--headless')
@@ -48,5 +48,5 @@ def SteamAccess(gameLink):
         pass
     finally:
         driver.quit()
-for i in links_list:
+for i in tqdm(links_list):
     SteamAccess(i)
