@@ -5,6 +5,9 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from tqdm import tqdm
 
+page = requests.get("https://isthereanydeal.com/#/")
+soup = BeautifulSoup(page.content, 'html.parser')
+
 options = Options()
 options.add_argument('--headless')
 
@@ -15,9 +18,6 @@ mfa = input("Steam Authenticator Code: ")
 user = wa.WebAuth(username, password)
 session = user.login(twofactor_code=mfa)
 session.get('https://steamcommunity.com')
-
-page = requests.get("https://isthereanydeal.com/#/")
-soup = BeautifulSoup(page.content, 'html.parser')
 
 table = soup.find(class_="cntBoxContent")
 sales = table.find_all(class_="bundle-container-outer bundle-preview giveaway")
