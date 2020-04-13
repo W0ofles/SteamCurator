@@ -1,0 +1,6 @@
+
+xpython:S1542&"TRename function "SteamAccess" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ü‚ÍÈùÿÿÿÿ8¿ƒ³‡—.
+Fpython:S1481."'Remove the unused local variable "web".(€¶ƒ8¿ƒ³‡—.
+<python:S125"Remove this commented out code.(òì­y8¿ƒ³‡—.
+wpython:S117&"TRename this parameter "gameLink" to match the regular expression ^[_a-z][a-z0-9_]*$.(ü‚ÍÈùÿÿÿÿ8¿ƒ³‡—.
+[python:S5754/"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¿ƒ³‡—.
