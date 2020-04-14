@@ -10,6 +10,7 @@ soup = BeautifulSoup(page.content, 'html.parser')
 
 options = Options()
 options.add_argument('--headless')
+driver = webdriver.Firefox(options=options)
 
 username = input("Steam Username: ")
 password = input("Steam Password: ")
@@ -33,10 +34,11 @@ str_list = list(set(str_list))
 
 links_list = []
 for i in str_list:
-    links_list.append(i)
+    if "steampowered" in i:
+        links_list.append(i)
+        print("Adding:", i)
 
 def SteamAccess(gameLink):
-    driver = webdriver.Firefox(options=options)
     driver.get(gameLink)
     for c in session.cookies :
         driver.add_cookie({'name': c.name, 'value': c.value, 'path': c.path, 'expiry': c.expires})
