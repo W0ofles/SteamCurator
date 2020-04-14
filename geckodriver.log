@@ -191,3 +191,361 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
 1586744450815	Marionette	INFO	Stopped listening on port 52145
+1586751522273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofileXHkwiU"
+*** You are running in headless mode.
+1586751522803	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586751523265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586751523265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586751523266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586751523266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586751525116	Marionette	INFO	Listening on port 53298
+1586751525448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801, line 1: p: OneSignal: This web push config can only be used on http://www.dailyindiegame.com. Your current origin is https://www.dailyindiegame.com.
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801, line 1: p: OneSignal: This web push config can only be used on http://www.dailyindiegame.com. Your current origin is https://www.dailyindiegame.com.
+1586751527972	Marionette	INFO	Stopped listening on port 53298
+1586751532354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofileCRpxcS"
+*** You are running in headless mode.
+1586751532866	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586751533319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586751533319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586751533319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586751533319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586751535128	Marionette	INFO	Listening on port 53370
+1586751535529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1586751544489	Marionette	INFO	Stopped listening on port 53370
+1586751549156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofilevf4nkV"
+*** You are running in headless mode.
+1586751549672	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586751550121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586751550122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586751550122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586751550122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586751552076	Marionette	INFO	Listening on port 53451
+1586751552329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1586751560885	Marionette	INFO	Stopped listening on port 53451
+1586751565303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofiledd52ZI"
+*** You are running in headless mode.
+1586751565824	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586751566280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586751566280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586751566281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586751566281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586751568592	Marionette	INFO	Listening on port 53528
+1586751568977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1586751577408	Marionette	INFO	Stopped listening on port 53528
+1586751623880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofileToLCgs"
+1586751624393	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586751624839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586751624839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586751624839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586751624839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586751627542	Marionette	INFO	Listening on port 53607
+1586751627566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801, line 1: p: OneSignal: This web push config can only be used on http://www.dailyindiegame.com. Your current origin is https://www.dailyindiegame.com.
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801, line 1: p: OneSignal: This web push config can only be used on http://www.dailyindiegame.com. Your current origin is https://www.dailyindiegame.com.
+1586751629993	Marionette	INFO	Stopped listening on port 53607
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586751634350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofileITHKe6"
+1586751634872	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586751635330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586751635330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586751635330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586751635330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586751637964	Marionette	INFO	Listening on port 53671
+1586751638027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1586751646849	Marionette	INFO	Stopped listening on port 53671
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586751651491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofileQkQzKn"
+1586751652014	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586751652472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586751652472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586751652472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586751652472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586751655047	Marionette	INFO	Listening on port 53749
+1586751655171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1586751663832	Marionette	INFO	Stopped listening on port 53749
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586751668436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofileUL6lGT"
+1586751668947	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586751669395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586751669395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586751669395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586751669395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586751672098	Marionette	INFO	Listening on port 53821
+1586751672108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1586751680460	Marionette	INFO	Stopped listening on port 53821
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586751829791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofilel2mTKQ"
+1586751830306	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586751830761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586751830761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586751830761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586751830761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586751833367	Marionette	INFO	Listening on port 53964
+1586751833472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1586751842003	Marionette	INFO	Stopped listening on port 53964
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586751846590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofilerFUmwq"
+1586751847129	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586751847590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586751847590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586751847590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586751847590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586751850346	Marionette	INFO	Listening on port 54038
+1586751850770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1586751953404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofileJnGEez"
+1586751953921	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586751954383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586751954383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586751954383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586751954383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586751956964	Marionette	INFO	Listening on port 54122
+1586751957092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586803670423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofileF2akZN"
+1586803670926	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586803671375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586803671375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586803671375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586803671375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586803673999	Marionette	INFO	Listening on port 56236
+1586803674096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801, line 1: p: OneSignal: This web push config can only be used on http://www.dailyindiegame.com. Your current origin is https://www.dailyindiegame.com.
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_163.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801, line 1: p: OneSignal: This web push config can only be used on http://www.dailyindiegame.com. Your current origin is https://www.dailyindiegame.com.
+1586803676606	Marionette	INFO	Stopped listening on port 56236
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586803680859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofile0r4FgO"
+1586803681355	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586803681803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586803681803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586803681803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586803681803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586803684375	Marionette	INFO	Listening on port 56310
+1586803684533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1586803688825	Marionette	INFO	Stopped listening on port 56310
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586803693325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofilemBf9uw"
+1586803693822	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586803694259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586803694259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586803694259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586803694259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586803696753	Marionette	INFO	Listening on port 56379
+1586803696994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_162.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_162.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801, line 1: p: OneSignal: This web push config can only be used on http://www.dailyindiegame.com. Your current origin is https://www.dailyindiegame.com.
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_162.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801, line 1: p: OneSignal: This web push config can only be used on http://www.dailyindiegame.com. Your current origin is https://www.dailyindiegame.com.
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.dailyindiegame.com/typeahead.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://www.dailyindiegame.com/site_weeklybundle_162.html, line 33: ReferenceError: $ is not defined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801, line 1: p: OneSignal: This web push config can only be used on http://www.dailyindiegame.com. Your current origin is https://www.dailyindiegame.com.
+1586803699300	Marionette	INFO	Stopped listening on port 56379
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586803703932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofile8JTdo8"
+1586803704423	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586803704859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586803704859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586803704859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586803704859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586803707418	Marionette	INFO	Listening on port 56455
+1586803707603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1586803710136	Marionette	INFO	Stopped listening on port 56455
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586803715143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofileLEnONP"
+1586803715647	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586803716184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586803716184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586803716184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586803716184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586803718700	Marionette	INFO	Listening on port 56521
+1586803718817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1586803722791	Marionette	INFO	Stopped listening on port 56521
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586803727370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofilezDr9Ph"
+1586803727864	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586803728303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586803728303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586803728303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586803728303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586803730798	Marionette	INFO	Listening on port 56609
+1586803731057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.microsoft.com/en-us/p/ashley-the-story-of-survival/9nf84wwcm2cj?activetab=pivot:overviewtab, line 84: Error: Script error for "telem"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.microsoft.com/en-us/p/ashley-the-story-of-survival/9nf84wwcm2cj?activetab=pivot:overviewtab, line 84: Error: Script error for "react-dom"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.microsoft.com/en-us/p/ashley-the-story-of-survival/9nf84wwcm2cj?activetab=pivot:overviewtab, line 84: Error: Script error for "redtux"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.microsoft.com/en-us/p/ashley-the-story-of-survival/9nf84wwcm2cj?activetab=pivot:overviewtab, line 84: Error: Script error for "react"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.microsoft.com/en-us/p/ashley-the-story-of-survival/9nf84wwcm2cj?activetab=pivot:overviewtab, line 84: Error: Script error for "platform"
+http://requirejs.org/docs/errors.html#scripterror
+1586803734308	Marionette	INFO	Stopped listening on port 56609
+JavaScript error: https://www.microsoft.com/en-us/p/ashley-the-story-of-survival/9nf84wwcm2cj?activetab=pivot:overviewtab, line 84: Error: Script error for "react"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.microsoft.com/en-us/p/ashley-the-story-of-survival/9nf84wwcm2cj?activetab=pivot:overviewtab, line 84: Error: Script error for "react-dom"
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3700AF,name=PContent::Msg_StartVisitedQueries) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586879285248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Woofles\\AppData\\Local\\Temp\\rust_mozprofilezROoVi"
+1586879285633	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586879286007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586879286007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586879286007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586879286007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586879287834	Marionette	INFO	Listening on port 62292
+1586879287865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586879304034	Marionette	INFO	Stopped listening on port 62292
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
