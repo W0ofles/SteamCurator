@@ -11,3 +11,7 @@
 	main.spec,4\1\41397cf4a1ef942156e51f7fda480c663f5b9de6
 ?
 geckodriver.log,c\b\cbf09af75ab9450a0d305286bcb3745c2b8db0ae
+;
+_config.yml,c\d\cd089ae45ce870c45e434019e8f1ed4f066cd425
+7
+LICENSE,0\3\0398ccd0f49298b10a3d76a47800d2ebecd49859

@@ -1,4 +1,4 @@
 
-opython:S116"QRename this field "newWindow" to match the regular expression ^[_a-z][_a-z0-9]*$.(¼ýáÌ8Âç­Ÿ˜.
-upython:S116"RRename this field "quitButton" to match the regular expression ^[_a-z][_a-z0-9]*$.(¨Žä°ÿÿÿÿÿ8Âç­Ÿ˜.
-Fpython:S1481"'Remove the unused local variable "app".(¦‰ª“8Âç­Ÿ˜.
+upython:S116"RRename this field "quitButton" to match the regular expression ^[_a-z][_a-z0-9]*$.(¨Žä°ÿÿÿÿÿ8’Õ±¤˜.
+opython:S116"QRename this field "newWindow" to match the regular expression ^[_a-z][_a-z0-9]*$.(¼ýáÌ8’Õ±¤˜.
+Fpython:S1481"'Remove the unused local variable "app".(¦‰ª“8’Õ±¤˜.
