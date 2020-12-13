@@ -7,6 +7,9 @@ from tkinter import ttk
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
+from souplogic import DoTheSoup
+from souplogic import SteamAccess
+
 #TODO: Add a database to store username and password.
 
 class MainTitle:
@@ -42,7 +45,9 @@ class MainTitle:
         self.frame.pack()
 
     def login_clicked(self):
-        #self.btn_login.configure(text="Logging in...")
+        username = self.txt_username.get()
+        password = self.txt_password.get()
+        mfa = self.txt_2fa.get()
         HeadlessModeEnabled = self.HeadlessModeEnabled.get()
         SteamLinksOnly = self.SteamLinksOnly.get()
         options = Options()
@@ -50,56 +55,15 @@ class MainTitle:
             options.add_argument('--headless')
         else:
             pass
-        driver = webdriver.Firefox(options=options)
-        username = self.txt_username.get()
-        password = self.txt_password.get()
-        mfa = self.txt_2fa.get()
-        user = wa.WebAuth(username, password)
-        session = user.login(twofactor_code=mfa)
-        session.get('https://steamcommunity.com')
-        def DoTheSoup():
-            page = requests.get("https://isthereanydeal.com/#/")
-            soup = BeautifulSoup(page.content, 'html.parser')
-            table = soup.find(class_="cntBoxContent")
-            links = table.find_all(class_="lg")
-            tags = []
-            for i in links:
-                tags.append(i.get('href'))
-            str_list = (filter(None, tags))
-            str_list = list(set(str_list))
-            links_list = []
-            if SteamLinksOnly == 1:
-                for i in str_list:
-                    if "steampowered" in i:
-                        links_list.append(i)
-                        print("Opening Links From Steam Only -->:", i)
-            else:
-                for i in str_list:
-                    links_list.append(i)
-                    print("Opening All Links -->:", i)
-            return links_list
-        def SteamAccess(gameLink):
-            driver.get(gameLink)
-            for c in session.cookies :
-                driver.add_cookie({'name': c.name, 'value': c.value, 'path': c.path, 'expiry': c.expires})
-            driver.get(gameLink) #Fix?
-            #driver.add_cookie()
-            #FIXME: add_cookie() brings up error. Was this planned?
-            try:
-                web = driver.find_element_by_class_name("btn_addtocart").click()
-            except:
-                pass
-            finally:
-                driver.quit()
-
+        DoTheSoup(username,password,mfa,SteamLinksOnly,options)
         #TODO: Thread Processes of application so mainloop doesn't freeze constantly.
         #xthread = threading.Thread(target=DoTheSoup)
         #xthread.start()
         #xthread.join()
         #ythread = threading.Thread(target=SteamAccess, args=(1,))
         #ythread.start()
-        for i in DoTheSoup():
-            SteamAccess(i)
+        for i in DoTheSoup(username,password,mfa,SteamLinksOnly,options):
+            SteamAccess(i,options)
             return
     #TODO: Add Secondary window.
     def new_window(self):
