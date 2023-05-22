@@ -9,7 +9,7 @@ greenlet==0.4.15
 idna==2.9
 protobuf==3.18.3
 pycparser==2.20
-requests==2.23.0
+requests==2.31.0
 selenium==3.141.0
 six==1.14.0
 soupsieve==2.0
